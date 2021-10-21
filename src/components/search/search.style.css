@@ -4,7 +4,13 @@
   border: none;
   outline: none;
   padding: 15px;
-  width: 250px;
+  width: 350px;
   line-height: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
+}
+
+.search::placeholder {
+  font-size: 19px;
+  color: rgb(136, 136, 136);
+  letter-spacing: 1px;
 }
